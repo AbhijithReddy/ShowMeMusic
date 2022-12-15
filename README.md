@@ -1,2 +1,2 @@
 # ShowMeMusic
-Download and Run the pytjon notebook using google colaboratory.
+Download and Run the python notebook using google colaboratory.
